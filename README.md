@@ -70,7 +70,8 @@ Administrador de sistemas y redes.
 **Contacto**
 - LinkedIn: www.linkedin.com/in/alberto-salceda-sepulcre
 - Email: sepulcrealberto@gmail.com
-Proyecto iniciado en **2025**. Repositorio público orientado a portfolio profesional.
+  
+- Proyecto iniciado en **2025**. Repositorio público orientado a portfolio profesional.
 
 ---
 
