@@ -109,3 +109,27 @@ Utilizar las credenciales por defecto de pfSense (consultar documentación ofici
 | **Acceso web pfSense** |  OK | HTTPS activo y operativo |
 | **Cliente Windows conectado** |  OK | Comunicación LAN confirmada |
 | **Acceso a Internet desde cliente** |  Pendiente | Se habilitará en la Fase 2 |
+
+---
+
+### Próxima Fase
+
+**Fase 2 — Servicios de Red y NAT**
+
+**Objetivos principales:**
+- Configurar salida a Internet desde la red LAN (`INT-CTRL`)
+- Activar y probar el DNS Resolver o DNS Forwarder
+- Crear y verificar reglas básicas de firewall
+- Validar la conectividad externa desde el cliente Windows
+
+---
+
+### Autoría
+
+Proyecto: **Space Command IT Lab**  
+Autor: **Alberto Salceda Sepulcre**  
+Fase: **1 — Gateway de Red (pfSense)**  
+Fecha: **Octubre 2025**
+
+---
+
