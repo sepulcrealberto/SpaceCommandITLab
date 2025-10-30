@@ -53,10 +53,23 @@ SpaceCommandITLab/
 ---
 
 ## Autor
-**Alberto Salceda Sepulcre**  
-Técnico en Administración de Sistemas Informáticos en Red.  
-En proceso de especialización en redes y ciberseguridad.
 
+**Alberto Salceda Sepulcre**  
+Administrador de sistemas y redes.
+
+**Propuesta de valor.** Diseño, despliegue y documentación de infraestructuras reproducibles: segmentación de red, seguridad perimetral con pfSense, virtualización en VirtualBox y operación de sistemas Windows/Linux.
+
+**Competencias clave**
+- Redes: TCP/IP, subredes, NAT, VLAN, DMZ, VPN básica.
+- Seguridad: políticas de firewall, hardening inicial, logs.
+- Sistemas: Windows 10/Server, Ubuntu/Debian, servicios base (DHCP/DNS).
+- Virtualización: VirtualBox, snapshots, clonado, redes internas.
+- Scripting y automatización: PowerShell y Bash (nivel inicial–intermedio).
+- Documentación y control de versiones: Markdown, Git/GitHub.
+
+**Contacto**
+- LinkedIn: www.linkedin.com/in/alberto-salceda-sepulcre
+- Email: sepulcrealberto@gmail.com
 Proyecto iniciado en **2025**. Repositorio público orientado a portfolio profesional.
 
 ---
